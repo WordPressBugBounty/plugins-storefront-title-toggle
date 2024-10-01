@@ -7,7 +7,7 @@
  * Author:				Wooassist
  * Author URI:			http://wooassist.com/
  * Requires at least:	4.0.0
- * Tested up to:		6.3
+ * Tested up to:		6.6.2
  *
  * Text Domain: storefront-title-toggle
  * Domain Path: /languages/
